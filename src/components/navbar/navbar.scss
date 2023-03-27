@@ -1,0 +1,14 @@
+@import "@/assets/variables/color.scss";
+@import "@/assets/variables/font.scss";
+
+
+.navbar {
+  padding: 25px 0;
+
+  ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+}
